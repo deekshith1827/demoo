@@ -1,6 +1,4 @@
 # demoo
-This is my first Git
-<br>
-repository.
+This is my first Git repository.
 <br>
 Author - Deekshith
